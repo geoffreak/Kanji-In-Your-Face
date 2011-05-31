@@ -1,0 +1,5 @@
+Anime Bite's Kanji in your face!
+
+Requirements: PHP 5, MySQL
+
+To use, just add run the MySQL statements in heisig.sql, edit the MySQL connection on line 2 of kanjiface.php to connect to your MySQL database, edit line 8 to choose the database name, then just add the kanjiface.php file as the src attribute of an image tag to see it.
